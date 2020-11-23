@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Мусс для умывания 4 Step Beauty Sysytem",
+        "price": 20.99,
+        "category": "face",
+        "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Шампунь-активатор Густой тонизирующий. Укрепление и рост",
+        "price": 16.99,
+        "category": "hair",
+        "image": { "fields": { "file": { "url": "./images/product-2.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Тоник для кожи головы Освежающий. Leave-in. Активатор роста",
+        "price": 25.99,
+        "category": "hair",
+        "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Густой шампунь Ламинирующий",
+        "price": 22.99,
+        "category": "hair",
+        "image": { "fields": { "file": { "url": "./images/product-4.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Маска-обертывание для волос Теплая. Pro-Oil System",
+        "price": 28.99,
+        "category": "hair",
+        "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "#звири Йети веган Маска для лица SAVE ENERGY! Fresh",
+        "price": 32.99,
+        "category": "face",
+        "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Органическая сертифицированная сыворотка-концентрат для лица для чувствительной кожи",
+        "price": 45.99,
+        "category": "face",
+        "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Аювердический флюид для лица",
+        "price": 33.99,
+        "category": "face",
+        "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Эвкалиптовый аква-гель для лица",
+        "price": 45.99,
+        "category": "face",
+        "image": { "fields": { "file": { "url": "./images/product-9.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Органический сертифицированный гиалуроновый пилинг для лица anti-age",
+        "price": 33.99,
+        "category": "face",
+        "image": { "fields": { "file": { "url": "./images/product-10.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Рецепты Бабушки Агафьи Натуральная сертифицированная зубная паста На березовом соке",
+        "price": 15.99,
+        "category": "teeth",
+        "image": { "fields": { "file": { "url": "./images/product-11.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Натуральная сертифицированная зубная паста Сибирская Солевая",
+        "price": 23.99,
+        "category": "teeth",
+        "image": { "fields": { "file": { "url": "./images/product-12.jpeg" } } }
+      }
+    }
+  ]
+}

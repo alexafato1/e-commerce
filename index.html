@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Organic House</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+    <link rel='stylesheet' href='style.css' />
+</head>
+<body>
+   
+    <nav class='navbar'>
+    <div class='navbar-center'>
+    
+     <h1>ORGANIC SHOP</h1>
+     <div class='cart-btn'>
+       <span class='nav-icon'>
+        <i class="fas fa-cart-plus"></i>
+       </span>
+       <div class='cart-items'>0</div>
+     </div>
+    </div>
+    </nav>
+    <!--- end of navbar -->
+    <!--- Hero -->
+    <header class='hero'>
+     <div class='banner'>
+      <h1 clas='banner-title'>naturale collection</h1>
+      <button class='banner-btn'><a href='#shop'>shop now</a></button>
+     </div>
+    </header>
+     <!--- end of hero -->
+     <!--- about -->
+       <section class='about' id='about'>
+         <h1>О НАС</h1>
+         <p>
+          
+          <strong>Organic House</strong> – это уникальный бутик натуральной и органической косметики. Здесь мы с любовью собрали для вас лучшие "зелёные" бренды. Ассортимент интернет-бутика Organic House – это огромный выбор безопасных средств для ухода за кожей и волосам. Мы гордимся тем, что имеем возможность представить Вам собственные бренды качественной и доступной косметики на натуральных природных компонентах со всех уголков планеты под девизом «Simple. Pure. Natural».
+         </p>
+
+       </section>
+     
+      <!--- product -->
+     <section class='products' id='shop'>
+       <h1>ПРОДУКЦИЯ</h1>
+      <div class='products-btns' >
+       <button type="button" class="filter-btn " data-id='face'>для лица</button>
+       <button type="button" class="filter-btn" data-id='hair'>для волос</button>
+       <button type="button" class="filter-btn" data-id='teeth'>для полости рта</button>
+       
+       <button type="button" class="filter-btn active" data-id='all'>вся продукция</button>
+      </div>
+      <div class="products-center">
+      </div>
+       
+          <!-- cart -->
+           <div class="cart-overlay">
+             <div class="cart">
+                 <span class='close-cart'>
+                    <i class="fa fa-window-close"></i>
+                 </span>
+                 <h2>you cart</h2>
+                 <div class='cart-content'>
+                  <!-- cart item-->
+                
+                  <!-- end of cart item-->
+                 </div>
+                 <div class="cart-footer">
+                   <div class='cart-footer'>
+                    <h3>you total: $<span class='cart-total'>0</span></h3>
+                    <button class="clear-cart banner-btn">clear cart</button>
+                   </div>
+                 </div>
+             </div>   
+          
+          <!-- end of cart -->
+            </section>
+             <!--- footer -->
+             <footer>
+              <div class="footer-center">
+                <h1>ORGANIC SHOP</h1>
+                  
+                   <ul>
+                     <li><a href='#shop'>Каталог</a></li>
+                     <li><a href='#about'>О нас</a></li>
+                     <li><a>Магазины</a></li>
+                   </ul>
+                 
+                 
+                   <ul class = social-link>
+                    <li><a><i class="fab fa-instagram"></i></a></li>
+                    <li><a><i class="fab fa-facebook"></i></a></li>
+                    <li><a><i class="fab fa-twitter"></i></a></li>
+                  </ul>
+               
+                 
+              </div>
+            </footer>
+         <!--- footer end-->
+         
+     <script src='app.js'></script>
+</body>
+</html> 
